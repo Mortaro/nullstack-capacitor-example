@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="Created with Nullstack - https://nullstack.app" />
+    
+    <meta property="og:image" content="https://localhost:5000/image-1200x630.png">
+    
+    
+    
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="[dev] Nullstack Capacitor Example">
+    <meta property="og:url" content="https://localhost:5000/offline-f357b169a0ffc0f45ddd4f8b5201e6e4a50ce5eb">
+    <link rel="canonical" href="https://localhost:5000/offline-f357b169a0ffc0f45ddd4f8b5201e6e4a50ce5eb">
+    <meta property="og:locale" content="en-US">
+    <link rel="shortcut icon" href="/favicon-96x96.png" type="image/png">
+    <link rel="icon" href="/favicon-96x96.png" type="image/png">
+    <link rel="manifest" href="/manifest-f357b169a0ffc0f45ddd4f8b5201e6e4a50ce5eb.json" integrity="">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="[dev] Nullstack Capacitor Example">
+    <meta name="apple-mobile-web-app-title" content="[dev] Nullstack Capacitor Example">
+    
+    <meta name="msapplication-starturl" content="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="/client-f357b169a0ffc0f45ddd4f8b5201e6e4a50ce5eb.css" integrity="" crossorigin="anonymous">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/icon-180x180.png">
+    <meta name="msapplication-TileColor" content="#D22365">
+    <link href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto&display=swap" rel="stylesheet"/>
+  </head>
+  <body>
+    <div id="application"></div>
+    <script async>
+      window.page = {"image":"/image-1200x630.png","status":200,"locale":"en-US"};
+      window.instances = {};
+      window.environment = {"client":false,"server":true,"development":false,"production":true,"mode":"spa","key":"f357b169a0ffc0f45ddd4f8b5201e6e4a50ce5eb"};
+      window.settings = {};
+      window.worker = {"enabled":true,"fetching":false,"preload":[],"headers":{},"api":"","cdn":"","protocol":"https","queues":{},"online":false,"responsive":false};
+      window.params = {};
+      window.project = {"domain":"localhost","name":"[dev] Nullstack Capacitor Example","color":"#D22365","type":"website","display":"standalone","orientation":"portrait","scope":"/","root":"/","sitemap":false,"favicon":"/favicon-96x96.png","disallow":[],"icons":{"72":"/icon-72x72.png","96":"/icon-96x96.png","128":"/icon-128x128.png","144":"/icon-144x144.png","152":"/icon-152x152.png","180":"/icon-180x180.png","192":"/icon-192x192.png","384":"/icon-384x384.png","512":"/icon-512x512.png"}};
+      window.context = {};
+      document.addEventListener('DOMContentLoaded', () => {
+        const script = window.document.createElement('script');
+        script.src = '/client-f357b169a0ffc0f45ddd4f8b5201e6e4a50ce5eb.js';
+        script.integrity = '';
+        script.crossOrigin = 'anonymous';
+        document.body.append(script);
+      });
+    </script>
+  </body>
+</html>

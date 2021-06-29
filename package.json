@@ -1,0 +1,20 @@
+{
+  "name": "nullstack-capacitor-example",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nullstack": "~0.11.0"
+  },
+  "scripts": {
+    "start": "npx nullstack start",
+    "build": "npx nullstack build --mode=spa --output=www && npx cap sync",
+    "android": "npx cap run android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^3.0.2",
+    "@capacitor/cli": "^3.0.2",
+    "@capacitor/core": "^3.0.2"
+  }
+}
